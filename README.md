@@ -22,7 +22,7 @@ I'm currently working on MERN-stack Development<br>I'm looking for collaboration
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jaluiovilash&icon=2&color=0)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=jaluiovilash&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
