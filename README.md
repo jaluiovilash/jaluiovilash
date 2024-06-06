@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on MERN-stack Development<br>I'm looking for collaboration on Web Development<br>I'm looking for help with Full-stack Development<br>I'm learning Full-stack Development<br>Ask me about NOTHING<br>Fun fact - I am Who?
+I'm currently working on MERN-stack Development<br>I'm looking for collaboration on Web Development<br>I'm looking for help with Full-stack Development<br>I'm learning Full-stack Development<br>Ask me about What project are you most proud of and why?
+<br>Fun fact - I am Who?
 
 
 ## 🌐 Socials:
