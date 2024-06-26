@@ -6,8 +6,8 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m currently working as a Web Developer.
-- 🌱 I’m currently contributing to my developer carrier.
-- 💬 Ask me about Web Development, Music.
+- 🌱 I’m currently contributing to my developer career.
+- 💬 Ask me about Web Development and music.
 - 📫 You can reach me out via [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com)
 - 📫 How to find me:
   - 📧 [Mail](mailto:ovilashjalui@gmail.com)
