@@ -5,7 +5,7 @@
 ##  About Me:
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as a Web Developer.
+- 🔭 I’m currently working as a Web Developer at @CodSoft
 - 🌱 I’m currently contributing to my developer career.
 - 💬 Ask me about Web Development and music.
 - 📫 You can reach me out via [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com)
