@@ -44,11 +44,31 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=jaluiovilash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaluiovilash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaluiovilash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+<!-- activity graph heroku-app start -->
+<div align="center">
+    <a href="https://github.com/jaluiovilash">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaluiovilash&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+<!-- activity graph heroku-app end -->
+
+<div align="center">
+<a href="https://github.com/jaluiovilash?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jaluiovilash&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/jaluiovilash?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaluiovilash&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaluiovilash&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="36%" alt="@Goblin's github-readme-streak-stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/dev51312117411/myavatars/blob/main/divider2.png" alt="divider"/>
+</div>
+
+
 
 ### ✍️ Random Dev Quote
 
