@@ -4,15 +4,18 @@
 
 ##  About Me:
 
-- 🌊 I'm from India.
-- 🔭 I’m currently working as a Web Developer at @CodSoft
-- 🌱 I’m currently contributing to my developer career.
-- 💬 Ask me about Web Development and music.
-- 📫 You can reach me out via [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com)
-- 📫 How to find me:
-  - 📧 [Mail](mailto:ovilashjalui@gmail.com)
+- 🌊 Based in India - Gujarat.
+- 🔭 Currently employed as a Web Developer at [CodSoft](https://codsoft.com).
+- 🌱 Actively advancing my career in web development.
+- 💬 Feel free to ask me about Web Development and music.
+- 📫 Reach out to me at [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com).
+- 📫 Connect with me:
+  - 📧 [Email](mailto:ovilashjalui@gmail.com)
   - 💼 [LinkedIn](https://www.linkedin.com/in/jaluiovilash/)
   - 📹 [Instagram](https://www.instagram.com/jaluiovilash/)
+
+### Professional Summary:
+As a Django developer with a strong focus on backend development, I also possess extensive experience in frontend development using ReactJS. My role at CodSoft has honed my skills in both server-side and client-side technologies, enabling me to build comprehensive and scalable web applications.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaluiovilash) 
