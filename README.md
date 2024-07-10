@@ -2,9 +2,9 @@
 
 # <h1 align="center">👋 Hello World!, I'm Ovilash! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-##  About Me:
+## About Me
 
-- 🌊 Based in India - Gujarat.
+- 🌊 Based in India.
 - 🔭 Currently employed as a Web Developer at [CodSoft](https://codsoft.com).
 - 🌱 Actively advancing my career in web development.
 - 💬 Feel free to ask me about Web Development and music.
@@ -15,7 +15,8 @@
   - 📹 [Instagram](https://www.instagram.com/jaluiovilash/)
 
 ### Professional Summary:
-As a Django developer with a strong focus on backend development, I also possess extensive experience in frontend development using ReactJS. My role at CodSoft has honed my skills in both server-side and client-side technologies, enabling me to build comprehensive and scalable web applications.
+
+As a Django developer with a strong focus on backend development, I also possess extensive experience in frontend development using ReactJS. At CodSoft, I work with HTML, CSS, and JavaScript to create dynamic and responsive web applications. My role has honed my skills in both server-side and client-side technologies, enabling me to build comprehensive and scalable web solutions.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaluiovilash) 
