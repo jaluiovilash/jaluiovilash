@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌊 Based in India.
-- 🔭 Currently employed as a Web Developer at [CodSoft](https://codsoft.com).
+- 🔭 Currently employed as a Web Developer at [CodSoft](https://codsoft.in).
 - 🌱 Actively advancing my career in web development.
 - 💬 Feel free to ask me about Web Development and music.
 - 📫 Reach out to me at [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com).
