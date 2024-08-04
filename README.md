@@ -5,9 +5,8 @@
 ## About Me
 
 - 🌊 Based in India.
-- 🔭 Currently employed as a Web Developer at [CodSoft](https://codsoft.in).
-- 🌱 Actively advancing my career in web development.
-- 💬 Feel free to ask me about Web Development and music.
+- 🌱 Actively advancing my career in Building Innovative Web Solutions.
+- 💬 Feel free to ask me about Web Development and Life.
 - 📫 Reach out to me at [ovilashjalui@gmail.com](mailto:ovilashjalui@gmail.com).
 - 📫 Connect with me:
   - 📧 [Email](mailto:ovilashjalui@gmail.com)
@@ -16,7 +15,9 @@
 
 ### Professional Summary:
 
-As a Django developer with a strong focus on backend development, I also possess extensive experience in frontend development using ReactJS. At CodSoft, I work with HTML, CSS, and JavaScript to create dynamic and responsive web applications. My role has honed my skills in both server-side and client-side technologies, enabling me to build comprehensive and scalable web solutions.
+As a Django developer and MERN-stack developer proficient in HTML5, CSS3, JavaScript, and Django, I have a basic understanding of React.js and Node.js. Currently, I am exploring the MERN stack to transition into a full-stack developer. My passion lies in mastering web development essentials and embracing emerging technologies, with a strong focus on user experience nuances for streamlined project development.
+<br>
+I have hands-on experience building sophisticated web applications, including a personal portfolio website and a community forum platform. My technical skills span multiple programming languages and tools, including C, C++, Java, Python, and various UI/UX design tools.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaluiovilash) 
