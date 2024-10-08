@@ -15,9 +15,20 @@
 
 ### Professional Summary:
 
-As a Django developer and MERN-stack developer proficient in HTML5, CSS3, JavaScript, and Django, I have a basic understanding of React.js and Node.js. Currently, I am exploring the MERN stack to transition into a full-stack developer. My passion lies in mastering web development essentials and embracing emerging technologies, with a strong focus on user experience nuances for streamlined project development.
+I am a motivated MERN stack developer with a solid foundation in creating dynamic and responsive web applications. My journey in
+web development has equipped me with a strong proficiency in MongoDB, Express.js, React.js, and Node.js, allowing me to build
+scalable and efficient solutions that enhance user experience. Alongside my expertise in the MERN stack, I have a foundational
+understanding of Django, further expanding my capabilities as a full-stack developer.
+<be>
 <br>
-I have hands-on experience building sophisticated web applications, including a personal portfolio website and a community forum platform. My technical skills span multiple programming languages and tools, including C, C++, Java, Python, and various UI/UX design tools.
+With hands-on experience in API development, database management, and user authentication, I focus on delivering secure and
+maintainable backend systems. My work emphasizes the creation of scalable solutions that leverage real-time data processing and
+automation, ensuring operational efficiency and seamless user interactions.
+<be>
+<br>
+I am passionate about bridging the gap between front-end and back-end technologies, crafting responsive and user-friendly interfaces
+while optimizing performance. Eager to contribute to innovative projects, I continuously seek opportunities to grow my skills and
+knowledge in emerging technologies, best practices, and collaborative environments that drive impactful software solutions.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaluiovilash) 
