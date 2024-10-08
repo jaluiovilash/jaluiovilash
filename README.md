@@ -20,12 +20,12 @@ web development has equipped me with a strong proficiency in MongoDB, Express.js
 scalable and efficient solutions that enhance user experience. Alongside my expertise in the MERN stack, I have a foundational
 understanding of Django, further expanding my capabilities as a full-stack developer.
 <be>
-<br>
+
 With hands-on experience in API development, database management, and user authentication, I focus on delivering secure and
 maintainable backend systems. My work emphasizes the creation of scalable solutions that leverage real-time data processing and
 automation, ensuring operational efficiency and seamless user interactions.
 <be>
-<br>
+
 I am passionate about bridging the gap between front-end and back-end technologies, crafting responsive and user-friendly interfaces
 while optimizing performance. Eager to contribute to innovative projects, I continuously seek opportunities to grow my skills and
 knowledge in emerging technologies, best practices, and collaborative environments that drive impactful software solutions.
