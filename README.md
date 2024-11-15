@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Firebase**
 
-- 🎥 In future, i might create coding videos on YoutTube at [www.youtube.com/@ovilashjalui](www.youtube.com/@ovilashjalui)
+- 🎥 In the future, I might create coding videos on YouTube at [www.youtube.com/@ovilashjalui](www.youtube.com/@ovilashjalui)
 
 - 🌱 I’m currently learning **Amazon Web Services and Next.js**
 
