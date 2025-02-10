@@ -140,9 +140,6 @@
 <a href="https://github.com/jaluiovilash?tab=repositories">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jaluiovilash&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
   
-<a href="https://github.com/jaluiovilash?tab=stars">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaluiovilash&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=react" alt="stats">
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaluiovilash&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="36%" alt="@Goblin's github-readme-streak-stats"/>
