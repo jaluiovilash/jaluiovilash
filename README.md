@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on **MERN Stack and Firebase**
 
-- 🎥 In the future, I might create coding videos on YouTube at [www.youtube.com/@ovilashjalui](www.youtube.com/@ovilashjalui)
+- 🎥 In the future, I might create coding videos on YouTube at [www.youtube.com/@jaluiovilash](https://www.youtube.com/@jaluiovilash)
 
 - 🌱 I’m currently learning **Amazon Web Services and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://jaluiovilash.web.app](https://jaluiovilash.web.app)
 
-- 📝 I regularly write articles on [https://jaluiovilash.web.app](https://jaluiovilash.web.app)
+- 📝 On Occasions, I write articles on [https://jaluiovilashblogs.hashnode.dev/](https://jaluiovilashblogs.hashnode.dev/)
 
 - 💬 Ask me about **Node.js, React, MongoDB, Next.js Etc.**
 
-- 📫 How to reach me **jaluiovilash.web.app**
+- 📫 How to reach me? **Mail at**: [jaluiovilash@outlook.com](mailto:jaluiovilash@outlook.com)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaluiovilash) 
