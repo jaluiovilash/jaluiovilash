@@ -5,7 +5,9 @@
 <h1 align="center">👋 Hey there, I'm Ovilash Jalui <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 Open-Source Enthusiast | 📚 Lifelong Learner
+  🚀 Full-Stack Developer | 💻 Open-Source Enthusiast | 📚 Lifelong Learner  
+  <br>
+  ⚡ <b>Systems Thinker & Strategic Intuitor</b> | Software Engineer working with <b>React, Next.js, MERN & Django</b> to build scalable, high-performance apps.
 </p>
 
 ---
@@ -33,23 +35,32 @@
 
 ## 💻 Tech Stack  
 
-### 🖌️ Frontend  
-React • Vue • Svelte • Tailwind • Sass • MUI • Ant Design • JavaScript • HTML • CSS  
-
-### ⚙️ Backend  
-Node.js • GraphQL • MongoDB • Django • Flask  
-
-### ☁️ Cloud  
-AWS • GCP • Azure • Firebase  
-
-### 🚀 DevOps  
-Docker • Kubernetes • Git  
-
-### 🤖 AI/ML  
-Python (ML/AI basics)  
-
-### 🛠️ Tools  
-VS Code • Figma  
+<table align="center">
+<tr>
+<td align="center" width="200"><b>Frontend</b></td>
+<td>React • Next.js • Vue • Svelte • Tailwind • Sass • MUI • Ant Design • JavaScript • HTML • CSS</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>Node.js • Express • GraphQL • MongoDB • Django • Flask</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud</b></td>
+<td>AWS • Google Cloud • Azure • Firebase</td>
+</tr>
+<tr>
+<td align="center"><b>DevOps</b></td>
+<td>Docker • Kubernetes • Git</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>Python (ML / AI basics)</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>VS Code • Figma</td>
+</tr>
+</table>
 
 ---
 
