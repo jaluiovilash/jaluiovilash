@@ -86,8 +86,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=jaluiovilash&icon=2&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=jaluiovilash&icon=2&color=0" alt="Profile Visits">
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=jaluiovilash&icon=2&color=0)](https://visitcount.itsvg.in)
