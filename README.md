@@ -9,6 +9,13 @@
   <br>
   ⚡ <b>Systems Thinker & Strategic Intuitor</b> | Software Engineer working with <b>React, Next.js, MERN & Django</b> to build scalable, high-performance apps.
 </p>
+<p align="center">
+ <a href="https://www.buymeacoffee.com/jaluiovilash/" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://jaluiovilash.web.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/jaluiovilash" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/jaluiovilash" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/jaluiovilash" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 
 ---
 
@@ -86,4 +93,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jaluiovilash&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=jaluiovilash&pretty=true)](https://visitcount.itsvg.in)
