@@ -82,10 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaluiovilash&theme=gotham&hide_border=true&layout=compact" width="36%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/dev51312117411/myavatars/blob/main/divider2.png" alt="divider"/>
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote  
