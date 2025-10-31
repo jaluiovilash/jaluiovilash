@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jaluiovilash&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaluiovilash&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaluiovilash&theme=gotham&hide_border=true&layout=compact" width="36%">
 </p>
 
